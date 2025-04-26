@@ -1,0 +1,4 @@
+res://default_env.tres
+res://main.tscn
+res://main.gdshader
+res://point_light_2d.gd

@@ -1,0 +1,24 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1745692629
+0f001814662d585c003ed3233a26d68f.jpg::CompressedTexture2D::3937619017917508778::1745692629::1745692630::1::::<><><>0<>0<>dfb337f34cadbd2e2f1f18e272065b37<>res://.godot/imported/0f001814662d585c003ed3233a26d68f.jpg-542c54a95ebf6ef4403ede9d07713693.ctex::
+default_env.tres::Environment::4054723006481669613::1745692518::0::1::::<><><>0<>0<><>::
+Group 28.png::CompressedTexture2D/CompressedTexture2D::1559755613633078539::1745670345::1745670436::1::::<><><>0<>0<>f3b8cb2e1463b2edbb6a3e692d652faa<>res://.godot/imported/Group 28.png-7c80d6dcee383bdf7cac864cfc2635f0.ctex::
+icon.png::CompressedTexture2D/CompressedTexture2D::3273256388205721629::1745670345::1745670436::1::::<><><>0<>0<>d2d4f0115e277777ea54188724252096<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+Interiors_free_16x16.png::CompressedTexture2D/CompressedTexture2D::2403967450464225104::1745682985::1745670436::1::::<><><>0<>0<>5845c05f926bed89a5fe3405e817e534<>res://.godot/imported/Interiors_free_16x16.png-583292e42d0b43b1917764625744734b.ctex::
+Julia.png::CompressedTexture2D/CompressedTexture2D::4027395201775392838::1745670345::1745670436::1::::<><><>0<>0<>f4fa237d0d2cc6a5080d5452803fc30f<>res://.godot/imported/Julia.png-b8e943f250d192a774acb23b28f4eb08.ctex::
+main.gdshader::Shader::8380216437264609275::1745692518::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::5083714348647797953::1745692518::0::1::::<><><>0<>0<><>::uid://i315tqs6v3ic::::res://player.gd<>uid://c6akjb7sp8p3w::::res://animation/walk_down.png<>uid://g5kv0fkviv2l::::res://animation/walk_down_1.png<>uid://baiq80sq3w8vs::::res://Interiors_free_16x16.png<>uid://bj3j0ejpom3oh::::res://animation/walk_run_2_l.png<>uid://cx7j0u5vp3i3m::::res://animation/walk_run_1_l.png<>uid://b4wbpdxrnfm2k::::res://animation/walk_run_2.png<>uid://2hvvst724flv::::res://animation/walk_run_1.png<>uid://c7rsevyue4pko::::res://animation/walk_up.png<>uid://cmv81xe3r8pdj::::res://animation/walk_up_1.png<>uid://dg8btjx0jwnre::::res://пол.png<>uid://drno68b1wc75p::::res://main.gdshader<>uid://5v85ijvqxdh3::::res://Room_Builder_free_16x16.png<>uid://bbolk2j28ifoe::::res://point_light_2d.gd
+player.gd::GDScript/GDScript::620946565367653210::1745670345::0::1::::<>CharacterBody2D<><>0<>0<><>::
+README.md::TextFile/TextFile::-1::1745670345::0::1::::<><><>0<>0<><>::
+point_light_2d.gd::GDScript::2486197994052320228::1745692517::0::1::::<>PointLight2D<><>0<>0<><>::
+Room_Builder_free_16x16.png::CompressedTexture2D/CompressedTexture2D::2151074911621140910::1745682985::1745691854::1::::<><><>0<>0<>b350acfa25a1d3736f56f14594b3db01<>res://.godot/imported/Room_Builder_free_16x16.png-98c778eebbeef62e5c85099a2164976c.ctex::
+пол.png::CompressedTexture2D/CompressedTexture2D::7648614735257875354::1745681582::1745681582::1::::<><><>0<>0<>430a65b73bc512444e7699cd48e63ed0<>res://.godot/imported/пол.png-c6c33e41df8fabd2a9d58092abbcc2a6.ctex::
+::res://animation/::1745671322
+walk_down.png::CompressedTexture2D/CompressedTexture2D::6949318865034304194::1745671249::1745671322::1::::<><><>0<>0<>d65dc58e1a29d393d5bfae0fdb0df489<>res://.godot/imported/walk_down.png-2160ed90b2c97063dfcd4e7e67a64845.ctex::
+walk_down_1.png::CompressedTexture2D/CompressedTexture2D::483710387340187653::1745671249::1745671322::1::::<><><>0<>0<>f3578774d413239d6a0eb711e50e1518<>res://.godot/imported/walk_down_1.png-3fbf59ae0e06dbf0bfd7a2ce8ef39db0.ctex::
+walk_run_1.png::CompressedTexture2D/CompressedTexture2D::1910862957288138487::1745671249::1745671322::1::::<><><>0<>0<>f27bdad7de0ed7d11ca1411814e25b75<>res://.godot/imported/walk_run_1.png-c2f03578cc73ce0142a88484f20ae59a.ctex::
+walk_run_1_l.png::CompressedTexture2D/CompressedTexture2D::6453837054759815380::1745671249::1745671322::1::::<><><>0<>0<>7db0b1c938ab18f9edacb3897212f1be<>res://.godot/imported/walk_run_1_l.png-3b0587103c50a257bdb034f8a6f63352.ctex::
+walk_run_2.png::CompressedTexture2D/CompressedTexture2D::4467401157577233064::1745671249::1745671322::1::::<><><>0<>0<>0d5d0ebde37bdb3b931e1be6810a320d<>res://.godot/imported/walk_run_2.png-a33d21fb57b354df2bed009a8247a2fe.ctex::
+walk_run_2_l.png::CompressedTexture2D/CompressedTexture2D::3076514176028971699::1745671249::1745671322::1::::<><><>0<>0<>76285fc5c43a650f42a237bdcb599014<>res://.godot/imported/walk_run_2_l.png-55992a5e4eab2235762fe541324dd24c.ctex::
+walk_up.png::CompressedTexture2D/CompressedTexture2D::7055079975648540870::1745671249::1745671322::1::::<><><>0<>0<>505c86a7bf51b0cbaab2151b7f474886<>res://.godot/imported/walk_up.png-3a9e5e9871296e293fce16c772ffaf01.ctex::
+walk_up_1.png::CompressedTexture2D/CompressedTexture2D::5660510730793161667::1745671249::1745671322::1::::<><><>0<>0<>4faa9ec67e8cc5f50cad898ce4070b14<>res://.godot/imported/walk_up_1.png-ce0ec80085d830cbef0774a8a83aa1a9.ctex::
