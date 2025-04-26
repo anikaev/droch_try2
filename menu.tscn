@@ -1,0 +1,31 @@
+[gd_scene load_steps=5 format=3 uid="uid://d117jchg3tekg"]
+
+[ext_resource type="Texture2D" uid="uid://b06sr505ruiuw" path="res://play (2).png" id="1_4hy44"]
+[ext_resource type="Texture2D" uid="uid://chtjb4l0u28yj" path="res://exit (3).png" id="2_ytr4m"]
+[ext_resource type="Texture2D" uid="uid://dynmw4sdagy26" path="res://Menu.png" id="3_l48gv"]
+[ext_resource type="Script" uid="uid://jc6gku5agmgl" path="res://menu.gd" id="4_ecwwl"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Play" type="Button" parent="."]
+offset_left = 45.0
+offset_top = 33.0
+offset_right = 309.0
+offset_bottom = 195.0
+icon = ExtResource("1_4hy44")
+
+[node name="Exit" type="Button" parent="."]
+offset_left = 49.0
+offset_top = 294.0
+offset_right = 313.0
+offset_bottom = 456.0
+icon = ExtResource("2_ytr4m")
+
+[node name="Menu" type="Sprite2D" parent="."]
+z_index = -1
+position = Vector2(520, 292)
+texture = ExtResource("3_l48gv")
+script = ExtResource("4_ecwwl")
+
+[connection signal="pressed" from="Play" to="Menu" method="_on_play_pressed"]
+[connection signal="pressed" from="Exit" to="Menu" method="_on_exit_pressed"]
